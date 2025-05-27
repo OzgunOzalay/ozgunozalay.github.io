@@ -1,200 +1,147 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Özgün Özalay",
+    "label": "PhD, Neuroscience",
+    "image": "ozgun.jpg",
+    "email": "oozalay@unmc.edu",
+    "url": "https://ozgunozalay.github.io/",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "1400 'C' St",
+      "postalCode": "NE 68102",
+      "city": "Omaha",
       "countryCode": "US",
-      "region": "California"
+      "region": "Nebraska"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "ozgunozalay",
+        "url": "https://www.linkedin.com/in/ozgunozalay/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Monroe Meyer Institute - University of Nebraska Medical Center",
+      "location": "Omaha, Nebraska",
+      "position": "Postdoctoral Researcher",
+      "url": "https://www.unmc.edu/mmi/",
+      "startDate": "2024-10-01",
+      "endDate": "Present"
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Integrative Medical Biology - Umeå University",
+      "location": "Umeå, Sweden",
+      "position": "Senior Research Engineer",
+      "url": "https://www.umu.se/en/research/integrative-medical-biology/",
+      "startDate": "2020-05-01",
+      "endDate": "2024-05-01"
     }
   ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Institute of Health Sciences - Ege University",
+      "location": "Izmir, Turkey",
+      "url": "https://www.ege.edu.tr/",
+      "area": "Neuroscience",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "startDate": "2013-09-01",
+      "endDate": "2019-11-01"
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Longitudinal monitoring of the mouse brain reveals heterogenous network trajectories during aging",
+      "publisher": "Communications Biology",
+      "releaseDate": "2024-02-20",
+      "url": "https://doi.org/10.1038/s42003-024-05873-8",
+      "summary": "A longitudinal rs-fMRI study in mice revealed sex-dependent trajectories of brain network reorganization during aging, showing patterns of de-differentiation in females and increased somatomotor connectivity in males."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "The effects of sexual abuse on female adolescent brain structures",
+      "publisher": "Scandinavian Journal of Child and Adolescent Psychiatry and Psychology",
+      "releaseDate": "2023-07-25",
+      "url": "https://doi.org/10.2478/sjcapp-2023-0009",
+      "summary": "This study found that sexually abused adolescent females had structural brain changes in the amygdala, hippocampus, and prefrontal cortex, suggesting neurobiological alterations even in the absence of psychiatric diagnoses."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
+      "name": "Learning-related contraction of gray matter in rodent sensorimotor cortex is associated with adaptive myelination",
+      "publisher": "eLife",
+      "releaseDate": "2022-11-09",
+      "url": "https://doi.org/10.7554/eLife.77432",
+      "summary": "Longitudinal VBM and immunohistochemistry in mice demonstrated that learning induces dynamic intracortical myelination, correlating with nonlinear changes in gray and white matter volumes."
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "The Aged Striatum: Evidence of Molecular and Structural Changes Using a Longitudinal Multimodal Approach in Mice",
+      "publisher": "Frontiers in Aging Neuroscience",
+      "releaseDate": "2022-01-24",
+      "url": "https://doi.org/10.3389/fnagi.2022.795132",
+      "summary": "Using PET and MRI, this study showed that aging mice exhibit decreased striatal D2 receptor availability and increased gray matter density, reflecting similar patterns seen in human aging."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
+      "name": "A longitudinal study of lateral ventricle volumes in deficit and non-deficit schizophrenia",
+      "publisher": "Psychiatry Research: Neuroimaging",
+      "releaseDate": "2021-07-30",
+      "url": "https://doi.org/10.1016/j.pscychresns.2021.111311",
+      "summary": "Over a five-year period, lateral ventricles expanded more in deficit than in non-deficit schizophrenia patients, suggesting differing trajectories of structural brain change."
+    },
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Brain areas associated with resilience to depression in high-risk young women",
+      "publisher": "Brain Structure and Function",
+      "releaseDate": "2021-04-01",
+      "url": "https://doi.org/10.1007/s00429-021-02215-w",
+      "summary": "Young women resilient to depression showed increased volume and thickness in salience and limbic network regions, highlighting potential neural correlates of resilience."
+    },
+    {
+      "name": "Testing an Internet-Based Turkish Obesity Behavioral Therapy Program: A Randomized Study",
+      "publisher": "Turkish Journal of Psychiatry",
+      "releaseDate": "2020-03-01",
+      "url": "https://doi.org/10.5080/u23783",
+      "summary": "A web-based cognitive behavioral therapy program led to significantly greater short-term weight loss compared to email education among Turkish overweight individuals."
+    },
+    {
+      "name": "The negative association between amygdala volume and harm avoidance trait in healthy young women with a history of familial depression",
+      "publisher": "Asian Journal of Psychiatry",
+      "releaseDate": "2020-02-01",
+      "url": "https://doi.org/10.1016/j.ajp.2019.101887",
+      "summary": "In healthy women with familial depression, smaller amygdala volume correlated with higher harm avoidance, suggesting a neuroanatomical link to personality traits."
+    },
+    {
+      "name": "Investigating Connectivity of Orbitomedial Prefrontal Region in a Patient with Traumatic Brain Injury",
+      "publisher": "Turkish Journal of Psychiatry",
+      "releaseDate": "2016-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/27711943/",
+      "summary": "A case study using DTI tractography revealed disrupted white matter connectivity in the orbitomedial prefrontal cortex following traumatic brain injury, highlighting the role of white matter damage in post-TBI symptoms."
+    },
+    {
+      "name": "Cortical thickness and VBM in young women at risk for familial depression and their depressed mothers with positive family history",
+      "publisher": "Psychiatry Research: Neuroimaging",
+      "releaseDate": "2016-06-30",
+      "url": "https://doi.org/10.1016/j.pscychresns.2016.04.004",
+      "summary": "Both high-risk daughters and their depressed mothers showed similar structural differences in temporoparietal and prefrontal regions, supporting these as potential trait markers for depression."
+    },
+    {
+      "name": "The relationship between the anterior corpus callosum size and prefrontal cortex volume in drug-free depressed patients",
+      "publisher": "Journal of Affective Disorders",
+      "releaseDate": "2013-04-05",
+      "url": "https://doi.org/10.1016/j.jad.2012.06.040",
+      "summary": "The study found that depressed patients have reduced prefrontal cortex volume and a disrupted correlation with anterior corpus callosum size, indicating impaired structural connectivity."
+    },
+    {
+      "name": "Reduced left uncinate fasciculus fractional anisotropy in deficit schizophrenia but not in non-deficit schizophrenia",
+      "publisher": "Psychiatry and Clinical Neurosciences",
+      "releaseDate": "2012-02-01",
+      "url": "https://doi.org/10.1111/j.1440-1819.2011.02293.x",
+      "summary": "DTI analysis showed that deficit schizophrenia patients had lower fractional anisotropy in the left uncinate fasciculus, suggesting specific frontotemporal white matter alterations."
+    },
+    {
+      "name": "Small frontal gray matter volume in first-episode depression patients",
+      "publisher": "Turkish Journal of Psychiatry",
+      "releaseDate": "2010-09-01",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/20818506/",
+      "summary": "First-episode, drug-naive depressed patients exhibited reduced frontal gray matter volume, supporting the presence of neurostructural changes early in the course of depression."
     }
   ]
+  
 }
