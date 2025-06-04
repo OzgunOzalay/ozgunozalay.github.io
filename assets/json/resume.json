@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Özgün Özalay",
-    "label": "PhD, Neuroscience",
-    "image": "ozgun.jpg",
+    "": "PhD, Neuroscience",
+    "image": "ozgun.png",
     "email": "oozalay@unmc.edu",
     "url": "https://ozgunozalay.github.io/",
     "location": {
@@ -36,6 +36,14 @@
       "url": "https://www.umu.se/en/research/integrative-medical-biology/",
       "startDate": "2020-05-01",
       "endDate": "2024-05-01"
+    },
+    {
+      "name": "SoCAT Lab - Ege University",
+      "location": "Izmir, Turkey",
+      "position": "Research Assistant",
+      "url": "https://www.ege.edu.tr/en/research/socat-lab",
+      "startDate": "2010-09-01",
+      "endDate": "Present"
     }
   ],
 
@@ -48,6 +56,15 @@
       "studyType": "PhD",
       "startDate": "2013-09-01",
       "endDate": "2019-11-01"
+    },
+    {
+      "institution": "Human Brain Research Center - Kyoto University",
+      "location": "Kyoto, Japan",
+      "url": "https://www.kyoto-u.ac.jp/en/research/hbrc/",
+      "area": "Neuroscience",
+      "studyType": "Special Research Student",
+      "startDate": "2015-09-01",
+      "endDate": "2016-08-01"
     }
   ],
   "publications": [
