@@ -34,10 +34,9 @@ latest_posts:
 I'm a postdoctoral researcher at the [Blackford Emotional Neuroscience Lab](https://blackfordlab.com/) at the [Munroe-Meyer Institute (UNMC-MMI)](https://www.unmc.edu/mmi/).
 
 
-I am especially interested in brain connectivity and network dynamics. I aim to understand how different brain regions work together and evolve as we grow, face challenges, and learn new things.
+I am interested in brain connectivity and network dynamics. I aim to understand how different brain regions work together and evolve as we grow, face challenges, and learn new things.
 
 Recently, I have been exploring the fascinating world of large language models (LLMs). I am enthusiastic about AI's potential to enhance neuroscience research, provide clinical insights, and utilize data-driven discoveries.
 
-If you're interested in neuroscience or the role of AI in research, I'd love to hear from you! Feel free to reach out with insights, questions, or collaboration ideas.
 
 
